@@ -11,7 +11,8 @@ This project creates a **Fitness Center Membership Management System (FCMMS)** t
 - Equipment tracking and maintenance
 - Personal fitness journals and analytics
 
-![ER Diagram](./erd-diagram.png)
+![ER Diagram](.[/erd-diagram.png](https://<Mariah1919>.github.io/fitness-center-database/erd
+))
 
 ---
 
